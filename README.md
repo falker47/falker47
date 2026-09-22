@@ -8,7 +8,8 @@ I turn complex or repetitive problems into systems that are useful, testable and
 
 [![Nexus Portfolio](https://img.shields.io/badge/Nexus_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://falker47.github.io/Nexus-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriziofalconi/)
-[![arXiv](https://img.shields.io/badge/arXiv-Ringmin-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.28654)
+[![arXiv Paper I](https://img.shields.io/badge/arXiv-Paper_I-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.28654)
+[![arXiv Paper II](https://img.shields.io/badge/arXiv-Paper_II-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.13630)
 
 </div>
 
@@ -76,11 +77,12 @@ Bilingual Pokémon knowledge hub combining generation-aware RAG with a Pokédex,
 
 ### Ringmin
 
-**Computational research**
+**Computational research · two-paper program**
 
-Research on the minimum central-circle problem, with a solver, independent verifier and certificates for finite cases.
+Research on the minimum central-circle problem: certified finite optima for n = 3…14, followed by a global asymptotic theory and an effective characterization of its limiting constant.
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.28654)
+[![Paper I](https://img.shields.io/badge/Paper_I-Finite_Optima-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.28654)
+[![Paper II](https://img.shields.io/badge/Paper_II-Asymptotic_Theory-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.13630)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/falker47/ringmin)
 
 </td>
