@@ -93,6 +93,7 @@ Research on the minimum central-circle problem, with a solver, independent verif
 Deduction party game for 3–12 players, built as an offline-capable React + TypeScript PWA and distributed on the Play Store.
 
 [![Live](https://img.shields.io/badge/Live_App-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://camaleonte.netlify.app/)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.falker.camaleonte)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/falker47/camaleonte)
 
 </td>
