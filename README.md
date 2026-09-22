@@ -1,57 +1,108 @@
+<div align="center">
+
 # Maurizio Falconi
 
 **Data Engineer · AI & Data · Algorithms · Computational Research**
 
-Data Engineer with a STEM background in physics and mathematics. I like turning complex or repetitive problems into systems that are verifiable and useful — from computational geometry research and RAG applications to deployed web products and practical tools.
+I turn complex or repetitive problems into systems that are useful, testable and reproducible — from data pipelines and RAG applications to computational geometry and shipped products.
 
-## What I work on
+[![Nexus Portfolio](https://img.shields.io/badge/Nexus_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://falker47.github.io/Nexus-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriziofalconi/)
+[![arXiv](https://img.shields.io/badge/arXiv-Ringmin-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.28654)
 
-- Data engineering and AI/ML systems
-- Algorithms, optimization and computational mathematics
-- RAG and knowledge systems
-- Full-stack products where data and logic are core
-- Automation and practical tooling
+</div>
+
+---
+
+## Focus
+
+<div align="center">
+
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-2F6FEB?style=flat-square)
+![AI & RAG](https://img.shields.io/badge/AI_%26_RAG-7B61FF?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algorithms-0F766E?style=flat-square)
+![Computational Research](https://img.shields.io/badge/Computational_Research-8B5CF6?style=flat-square)
+![Practical Tooling](https://img.shields.io/badge/Practical_Tooling-4B5563?style=flat-square)
+
+</div>
+
+## Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="42" height="42" />
+</div>
+
+<div align="center">
+
+![SAS](https://img.shields.io/badge/SAS-1F5A94?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
 
 ## Selected work
 
-### Prof. Gecko
-Bilingual Pokémon knowledge hub combining generation-aware RAG with a Pokédex, Data Hub, Team Builder and comparison tools. Built with **Next.js + FastAPI**.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-[Live product](https://profgecko.vercel.app/)
+### Prof. Gecko
+
+**AI / RAG product**
+
+Bilingual Pokémon knowledge hub combining generation-aware RAG with a Pokédex, Data Hub, Team Builder and comparison tools.
+
+[![Live](https://img.shields.io/badge/Live_Product-111827?style=flat-square&logo=vercel&logoColor=white)](https://profgecko.vercel.app/)
+
+</td>
+<td width="33%" valign="top">
 
 ### Ringmin
-Computational geometry research on the minimum central-circle problem, with a solver, independent verifier and certificates for finite cases.
 
-[Paper](https://arxiv.org/abs/2607.28654) · [Repository](https://github.com/falker47/ringmin)
+**Computational research**
+
+Research on the minimum central-circle problem, with a solver, independent verifier and certificates for finite cases.
+
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.28654)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/falker47/ringmin)
+
+</td>
+<td width="33%" valign="top">
 
 ### Camaleonte
-A deduction party game for 3–12 players, built as an offline-capable **React + TypeScript PWA** and distributed on the Play Store.
 
-[Live app](https://camaleonte.netlify.app/) · [Repository](https://github.com/falker47/camaleonte)
+**Shipped application**
 
-### Chi l'ha detto?
-Historical quote quiz with game modes, streaks and a global leaderboard. **React + TypeScript**, with a serverless backend on **Vercel + Neon/PostgreSQL**.
+Deduction party game for 3–12 players, built as an offline-capable React + TypeScript PWA and distributed on the Play Store.
 
-[Live app](https://chi-l-ha-detto.vercel.app/) · [Repository](https://github.com/falker47/chi-l-ha-detto)
+[![Live](https://img.shields.io/badge/Live_App-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://camaleonte.netlify.app/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/falker47/camaleonte)
 
-### Diario di Bordo
-Mobile-first platform for an educational community, built with **React + TypeScript + Supabase**, including authentication, RLS and Edge Functions.
+</td>
+</tr>
+</table>
 
-[Live app](https://diariodibordo.netlify.app/) · [Repository](https://github.com/falker47/Diario-di-Bordo)
+<div align="center">
 
-### Hogwarts Legacy Save Editor
-Windows application that streamlines save management and editing for Hogwarts Legacy, with automatic save detection and backup handling.
+### More projects, research and tools
 
-[Repository](https://github.com/falker47/HogwartsLegacy-SaveEditor)
+[![Explore Nexus Portfolio](https://img.shields.io/badge/Explore_Nexus_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://falker47.github.io/Nexus-portfolio/)
 
-## Technologies
-
-`Python` · `SQL` · `TypeScript` · `JavaScript` · `React` · `Next.js` · `FastAPI` · `PostgreSQL` · `Supabase` · `SAS` · `Oracle` · `GitHub Actions`
-
-## More
-
-For a curated view of my projects, research and tools:
-
-**[Nexus Portfolio](https://falker47.github.io/Nexus-portfolio/)**
-
-[LinkedIn](https://www.linkedin.com/in/mauriziofalconi/)
+</div>
