@@ -2,7 +2,7 @@
 
 # Maurizio Falconi
 
-**Data Engineer · AI & Data · Algorithms · Computational Research**
+**Data Engineer · Applied AI & Automation · Algorithms · Computational Research**
 
 I turn complex or repetitive problems into systems that are useful, testable and reproducible — from data pipelines and RAG applications to computational geometry and shipped products.
 
@@ -20,7 +20,7 @@ I turn complex or repetitive problems into systems that are useful, testable and
 <div align="center">
 
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-2F6FEB?style=flat-square)
-![AI & RAG](https://img.shields.io/badge/AI_%26_RAG-7B61FF?style=flat-square)
+![Applied AI & Automation](https://img.shields.io/badge/Applied_AI_%26_Automation-7B61FF?style=flat-square)
 ![Algorithms](https://img.shields.io/badge/Algorithms-0F766E?style=flat-square)
 ![Computational Research](https://img.shields.io/badge/Computational_Research-8B5CF6?style=flat-square)
 ![Practical Tooling](https://img.shields.io/badge/Practical_Tooling-4B5563?style=flat-square)
