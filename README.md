@@ -9,6 +9,7 @@ I turn complex or repetitive problems into systems that are useful, testable and
 [![Nexus Portfolio](https://img.shields.io/badge/Nexus_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://falker47.github.io/Nexus-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriziofalconi/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--3162--3651-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3162-3651)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=5xHRNvoAAAAJ)
 [![arXiv Paper I](https://img.shields.io/badge/arXiv-Paper_I-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.28654)
 [![arXiv Paper II](https://img.shields.io/badge/arXiv-Paper_II-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.13630)
 
