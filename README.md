@@ -81,6 +81,11 @@ Bilingual Pokémon knowledge hub combining generation-aware RAG with a Pokédex,
 
 Research on the minimum central-circle problem: certified finite optima for n = 3…14, followed by a global asymptotic theory and an effective characterization of its limiting constant.
 
+**Publications**
+
+- [*Arranging circles of radii 1,2,...,n around a central circle: a Supnick TSP and certified finite optima*](https://arxiv.org/abs/2607.28654)
+- [*Minimum central circles: an effective characterization of the global asymptotic constant*](https://arxiv.org/abs/2609.13630)
+
 [![Paper I](https://img.shields.io/badge/Paper_I-Finite_Optima-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.28654)
 [![Paper II](https://img.shields.io/badge/Paper_II-Asymptotic_Theory-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.13630)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/falker47/ringmin)
