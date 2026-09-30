@@ -4,7 +4,11 @@
 
 <img src="assets/focus-strip.svg" alt="Data Engineering · Applied AI & Automation · Algorithms · Computational Research · Practical Tooling" />
 
-<p>I build what I wish existed. Sometimes useful, often just for fun.</p>
+<br>
+
+<p>I'm a Data Engineer working on regulated healthcare data flows, with a background shaped by physics and quantitative problem solving. Alongside my work, I build applied-AI tools, software products and independent computational research.</p>
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriziofalconi/)
 [![Nexus Portfolio](https://img.shields.io/badge/Nexus_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://falker47.github.io/Nexus-portfolio/)
