@@ -2,29 +2,21 @@
 
 # Maurizio Falconi
 
-**Data Engineer · Applied AI & Automation · Algorithms · Computational Research**
+<img src="assets/focus-data-engineering.svg" alt="Data Engineering" />
+<img src="assets/focus-applied-ai-automation.svg" alt="Applied AI & Automation" />
+<img src="assets/focus-algorithms.svg" alt="Algorithms" />
+<img src="assets/focus-computational-research.svg" alt="Computational Research" />
+<img src="assets/focus-practical-tooling.svg" alt="Practical Tooling" />
 
-I turn complex or repetitive problems into systems that are useful, testable and reproducible — from data pipelines and RAG applications to computational geometry and shipped products.
+I learn the technologies I need to build what I wish existed. Sometimes it's something useful, much more often something fun.
 
-[![Nexus Portfolio](https://img.shields.io/badge/Nexus_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://falker47.github.io/Nexus-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriziofalconi/)
+[![Nexus Portfolio](https://img.shields.io/badge/Nexus_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://falker47.github.io/Nexus-portfolio/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3162-3651)
 
 </div>
 
 ---
-
-## Focus
-
-<div align="center">
-
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-2F6FEB?style=flat-square)
-![Applied AI & Automation](https://img.shields.io/badge/Applied_AI_%26_Automation-7B61FF?style=flat-square)
-![Algorithms](https://img.shields.io/badge/Algorithms-0F766E?style=flat-square)
-![Computational Research](https://img.shields.io/badge/Computational_Research-8B5CF6?style=flat-square)
-![Practical Tooling](https://img.shields.io/badge/Practical_Tooling-4B5563?style=flat-square)
-
-</div>
 
 ## Stack
 
@@ -35,9 +27,7 @@ I turn complex or repetitive problems into systems that are useful, testable and
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle" width="42" height="42" />
   &nbsp;&nbsp;
-  <img src="assets/sas.svg" alt="SAS" title="SAS" width="42" height="42" />
-  &nbsp;&nbsp;
-  <img src="assets/sql.svg" alt="SQL" title="SQL" width="42" height="42" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Sas_Logo.svg" alt="SAS" title="SAS" height="42" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="42" height="42" />
   &nbsp;&nbsp;
@@ -56,9 +46,9 @@ I turn complex or repetitive problems into systems that are useful, testable and
 
 ## Selected work
 
-<table>
+<table width="100%">
 <tr>
-<td colspan="2" valign="top">
+<td width="100%" valign="top">
 
 ### Ringmin
 
@@ -66,10 +56,15 @@ I turn complex or repetitive problems into systems that are useful, testable and
 
 Research on the minimum central-circle problem: certified finite optima for n = 3…14, followed by a global asymptotic theory and an effective characterization of its limiting constant.
 
-[Paper I · Finite Optima](https://arxiv.org/abs/2607.28654) · [Paper II · Asymptotic Theory](https://arxiv.org/abs/2609.13630) · [Code · GitHub](https://github.com/falker47/ringmin)
+[![Paper I · Finite Optima](https://img.shields.io/badge/Paper_I-Finite_Optima-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.28654)
+[![Paper II · Asymptotic Theory](https://img.shields.io/badge/Paper_II-Asymptotic_Theory-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.13630)
+[![Code · GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/falker47/ringmin)
 
 </td>
 </tr>
+</table>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -90,9 +85,9 @@ Bilingual Pokémon knowledge hub combining generation-aware RAG with a Pokédex,
 
 Deduction party game for 3–12 players, built as an offline-capable React + TypeScript PWA and distributed on the Play Store.
 
-[![Live](https://img.shields.io/badge/Live_App-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://camaleonte.netlify.app/)<br>
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.falker.camaleonte)<br>
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/falker47/camaleonte)
+[![Live](https://img.shields.io/badge/Live_App-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://camaleonte.netlify.app/)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.falker.camaleonte)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/falker47/camaleonte)
 
 </td>
 </tr>
