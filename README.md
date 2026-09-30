@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maurizio Falconi
+# Maurizio Falconi - falker47
 
 <img src="assets/focus-strip.svg" alt="Data Engineering · Applied AI & Automation · Algorithms · Computational Research · Practical Tooling" />
 
