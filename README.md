@@ -56,9 +56,9 @@ I learn the technologies I need to build what I wish existed. Sometimes it's som
 
 Research on the minimum central-circle problem: certified finite optima for n = 3…14, followed by a global asymptotic theory and an effective characterization of its limiting constant.
 
+[![Code · GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/falker47/ringmin)
 [![Paper I · Finite Optima](https://img.shields.io/badge/Paper_I-Finite_Optima-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.28654)
 [![Paper II · Asymptotic Theory](https://img.shields.io/badge/Paper_II-Asymptotic_Theory-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.13630)
-[![Code · GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/falker47/ringmin)
 
 </td>
 </tr>
@@ -85,9 +85,9 @@ Bilingual Pokémon knowledge hub combining generation-aware RAG with a Pokédex,
 
 Deduction party game for 3–12 players, built as an offline-capable React + TypeScript PWA and distributed on the Play Store.
 
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/falker47/camaleonte)
 [![Live](https://img.shields.io/badge/Live_App-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://camaleonte.netlify.app/)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.falker.camaleonte)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/falker47/camaleonte)
 
 </td>
 </tr>
