@@ -2,13 +2,9 @@
 
 # Maurizio Falconi
 
-<img src="assets/focus-data-engineering.svg" alt="Data Engineering" />
-<img src="assets/focus-applied-ai-automation.svg" alt="Applied AI & Automation" />
-<img src="assets/focus-algorithms.svg" alt="Algorithms" />
-<img src="assets/focus-computational-research.svg" alt="Computational Research" />
-<img src="assets/focus-practical-tooling.svg" alt="Practical Tooling" />
+<img src="assets/focus-strip.svg" alt="Data Engineering · Applied AI & Automation · Algorithms · Computational Research · Practical Tooling" />
 
-I learn the technologies I need to build what I wish existed. Sometimes it's something useful, much more often something fun.
+<p>I build what I wish existed. Sometimes useful, often just for fun.</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriziofalconi/)
 [![Nexus Portfolio](https://img.shields.io/badge/Nexus_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://falker47.github.io/Nexus-portfolio/)
