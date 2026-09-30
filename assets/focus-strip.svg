@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="32" viewBox="0 0 900 32" role="img" aria-labelledby="title">
+  <title id="title">Data Engineering · Applied AI &amp; Automation · Algorithms · Computational Research · Practical Tooling</title>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="middle">
+    <text x="83" y="21" fill="#2F81F7">Data Engineering</text>
+    <text x="174" y="21" fill="#6E7681">·</text>
+    <text x="292" y="21" fill="#A371F7">Applied AI &amp; Automation</text>
+    <text x="413" y="21" fill="#6E7681">·</text>
+    <text x="477" y="21" fill="#2EA043">Algorithms</text>
+    <text x="540" y="21" fill="#6E7681">·</text>
+    <text x="657" y="21" fill="#BF91F3">Computational Research</text>
+    <text x="778" y="21" fill="#6E7681">·</text>
+    <text x="842" y="21" fill="#8C959F">Practical Tooling</text>
+  </g>
+</svg>
