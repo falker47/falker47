@@ -52,9 +52,9 @@
 
 ### Ringmin
 
-**Computational research · two-paper program**
+**Independent computational geometry · two arXiv preprints**
 
-Research on the minimum central-circle problem: certified finite optima for n = 3…14, followed by a global asymptotic theory and an effective characterization of its limiting constant.
+How small can a central circle be when circles of radii 1, 2, ..., n must touch it without overlapping? Ringmin studies this problem, with certified global optima for n = 3–14 and an effective characterization of the asymptotic constant.
 
 [![Code · GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/falker47/ringmin)
 [![Paper I · Finite Optima](https://img.shields.io/badge/Paper_I-Finite_Optima-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.28654)
@@ -70,9 +70,9 @@ Research on the minimum central-circle problem: certified finite optima for n = 
 
 ### Prof. Gecko
 
-**AI / RAG product**
+**Applied AI · RAG**
 
-Bilingual Pokémon knowledge hub combining generation-aware RAG with a Pokédex, Data Hub, Team Builder and comparison tools.
+Bilingual Pokémon knowledge app with a game- and generation-aware AI assistant, a Pokédex, Data Hub, Team Builder and Pokémon comparison tools.
 
 [![Live](https://img.shields.io/badge/Live_Product-111827?style=flat-square&logo=vercel&logoColor=white)](https://profgecko.vercel.app/)
 
@@ -81,12 +81,12 @@ Bilingual Pokémon knowledge hub combining generation-aware RAG with a Pokédex,
 
 ### Camaleonte
 
-**Shipped application**
+**Web & Android game**
 
-Deduction party game for 3–12 players, built as an offline-capable React + TypeScript PWA and distributed on the Play Store.
+An offline-capable social deduction game for 3–12 players sharing one device, built with React and TypeScript and available on the web and Google Play.
 
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/falker47/camaleonte)
-[![Live](https://img.shields.io/badge/Live_App-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://camaleonte.netlify.app/)
+[![Live](https://img.shields.io/badge/Live_App-00C7B7?style=flat-square&logo=github&logoColor=white)](https://falker47.github.io/camaleonte/)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.falker.camaleonte)
 
 </td>
