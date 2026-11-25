@@ -11,7 +11,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriziofalconi/)
-[![Nexus Portfolio](https://img.shields.io/badge/Nexus_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://falker47.github.io/Nexus-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://falker47.github.io/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3162-3651)
 
 </div>
@@ -97,6 +97,6 @@ An offline-capable social deduction game for 3–12 players sharing one device, 
 
 ### More projects, research and tools
 
-[![Explore Nexus Portfolio](https://img.shields.io/badge/Explore_Nexus_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://falker47.github.io/Nexus-portfolio/)
+[![Explore the portfolio](https://img.shields.io/badge/Explore_the_portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://falker47.github.io/)
 
 </div>
