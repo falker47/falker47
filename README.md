@@ -6,7 +6,7 @@
 
 <br>
 
-<p>I'm a Data Engineer working on regulated healthcare data flows, with a background shaped by physics and quantitative problem solving. Alongside my work, I build applied-AI tools, software products and independent computational research.</p>
+<p>AI Engineer. I bring AI into business processes, build apps and tools, mod video games and do independent math research.</p>
 
 <br>
 
