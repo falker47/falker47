@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriziofalconi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://falker47.github.io/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3162-3651)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=5xHRNvoAAAAJ)
 
 </div>
 
@@ -59,6 +60,7 @@ How small can a central circle be when circles of radii 1, 2, ..., n must touch 
 [![Code · GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/falker47/ringmin)
 [![Paper I · Finite Optima](https://img.shields.io/badge/Paper_I-Finite_Optima-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.28654)
 [![Paper II · Asymptotic Theory](https://img.shields.io/badge/Paper_II-Asymptotic_Theory-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.13630)
+[![Research · Portfolio](https://img.shields.io/badge/Research-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://falker47.github.io/research/)
 
 </td>
 </tr>
