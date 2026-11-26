@@ -2,11 +2,11 @@
 
 # Maurizio Falconi - falker47
 
-<img src="assets/focus-strip.svg" alt="Data Engineering · Applied AI & Automation · Algorithms · Computational Research · Practical Tooling" />
+<img src="assets/focus-strip.svg" alt="Applied AI · AI in Business Processes · Automation · Algorithms · Computational Research" />
 
 <br>
 
-<p>I'm a Data Engineer working on regulated healthcare data flows, with a background shaped by physics and quantitative problem solving. Alongside my work, I build applied-AI tools, software products and independent computational research.</p>
+<p>AI Engineer. I bring AI into business processes, starting from the data. Alongside my work I build apps and tools, mod video games and pursue independent mathematical research, with a background shaped by physics.</p>
 
 <br>
 
